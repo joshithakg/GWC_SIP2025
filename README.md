@@ -1,12 +1,14 @@
-# Pong Game Starter Code
-This is a place for you to start building your Pong Game!
+# Threads of Hope
 
 ###  Project Description
-Create a game where you move the paddle from left to right to try and keep the bouncing ball from touching the ground. If it touches the ground you lose the game. 
+Threads of Hope is an interactive, narrative-driven Choose Your Own Adventure (CYOA) game built with p5.js and p5.play. Players explore a story where their choices influence the outcome, manage a hope meter and interact with a virtual dog companion.
 
-###  Attributions
-*If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
-- Add here if applicable
+###  Features
+Multiple Branching Paths: Each decision shapes the story and leads to unique endings.
+Hope Meter: Reflects the player’s emotional state and choices throughout the game.
+Interactive Pet Companion: Players can pet and interact with a dog that responds dynamically.
+Dynamic Backgrounds: Scenes change based on the story progression and player choices.
+Book Interactions: Players can read in-game books, with events triggered by player-dog interactions.
 
 ---
 

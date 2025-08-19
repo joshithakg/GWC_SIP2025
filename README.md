@@ -49,3 +49,5 @@ The project can also be hosted using GitHub Pages (Requires a modern browser (Ch
   
 ### Final Thoughts
 This project took about 16–17 hours, but it was so worth it! I walked away with sharper coding skills, a deeper love for narrative games, and one very patient (and well-petted) virtual dog.  
+
+https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)

@@ -36,7 +36,7 @@ Learned:
 #### Develop, Run 
 1. Clone this repo / Create a branch from main:  
    ```bash
-   git clone https://github.com/yourusername/threadsofhope.git
+   git clone https://github.com/joshithakg/threadsofhope.git
 2. Development platform: https://replit.com/
 
 ### Play Online (GitHub Pages)

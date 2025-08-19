@@ -11,10 +11,10 @@ I wanted to create something that was not just a game, but an experience. Hope i
 - Hope Meter: Reflects the player’s emotional state and choices throughout the game.
 - Interactive Pet Companion: Players can pet and interact with a dog that responds dynamically.
 - Dynamic Backgrounds: Scenes change based on the story progression and player choices.
-- Book Interactions: Players can read in-game books, with events triggered by player-dog interactions.
+- Interactions: Players can interact with sprites which influences much bigger decisions.
 
 ### How I Built It
-- Language / Libraries: JavaScript + p5.js + p5.play (for sprites/buttons).
+- Language / Libraries: JavaScript + p5.js + p5.play.
 - I worked on this entirely in Replit, coding and testing iteratively.
 
 ### Struggles & What I Learned
@@ -25,7 +25,7 @@ Struggles:
 Learned:
 - How to better structure projects with multiple scenes.
 - How to combine storytelling logic with actual game logic.
-- Those debugging sprite animations is basically a horror game itself :D.
+- Those debugging sprite animations are basically a thrilling horror game itself :D.
 
 <img width="852" height="575" alt="ThreadsOfHope" src="https://github.com/user-attachments/assets/63f57e45-5826-4d7c-a5f7-1e1ffce62187" />
 
@@ -34,7 +34,7 @@ Learned:
 ### How to Develop, Run  
 
 #### Develop, Run 
-1. Clone this repo:  
+1. Clone this repo / Create a branch from main:  
    ```bash
    git clone https://github.com/yourusername/threadsofhope.git
 2. Development platform: https://replit.com/
@@ -43,7 +43,7 @@ Learned:
 
 The project can also be hosted using GitHub Pages (Requires a modern browser (Chrome, Firefox, Edge) and no additional installations):
 - Navigate to the repository’s Settings → Pages.
-- Under Source, select main branch / root.
+- Under Source, select your branch / root.
 - After saving, GitHub generates a live link.
 - Once published, your game will be available at https://yourusername.github.io/threadsofhope/
   
